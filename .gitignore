@@ -8,7 +8,6 @@ pom.xml.next
 release.properties
 
 #Eclipse
-test string
 *.classpath
 *.project
 *.pydevproject
